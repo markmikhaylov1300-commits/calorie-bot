@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-BOT_TOKEN = os.environ.get('BOT_TOKEN', 'ВАШ_ТОКЕН_БОТА')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8194091169:AAHC-VCu3Sj_6KGA6PdBX3SNbUW87LIrKV0')
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 
 print("🤖 Бот запущен!")
